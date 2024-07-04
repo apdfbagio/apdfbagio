@@ -30,12 +30,12 @@
 ![VISUALBASIC](https://img.shields.io/badge/VISUALBASIC-239120?style=for-the-badge&logo=VISUALBASIC&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JUPYTER](https://img.shields.io/badge/Jupyter-F7DF1E?style=for-the-badge&logo=Jupyter&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-E34F26?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![Starteam](https://img.shields.io/badge/Starteam-20232A?style=for-the-badge&logo=starteam&logoColor=61DAFB)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-239120?style=for-the-badge&logo=azures)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
@@ -46,6 +46,7 @@
 
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
@@ -62,9 +63,10 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-E44C30?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
+![MSSql](https://img.shields.io/badge/MSSql-000000?style=for-the-badge&logo=mssql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/mariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![Mint](https://img.shields.io/badge/Mint-4A154B?style=for-the-badge&logo=mint&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
