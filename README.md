@@ -1,7 +1,6 @@
 
 
-
-![Profile views](https://gpvc.arturio.dev/apdfbagio)
+![](https://komarev.com/ghpvc/?username=your-github-apdfbagio)
 
 <p>
  👨‍💻 Experienced systems analyst with a strong background in ERP development for Life Insurance, utilizing Visual Basic 6, SQL Server, and Crystal Reports. Experienced in Continuous Integration and Continuous Deployment (CI/CD) for clients like Marítima and Bradesco, supporting development and testing environments.
@@ -14,10 +13,7 @@
 
 📚 Currently expanding skills in Data Analysis with Python, Jupyter, and PowerBI.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=apdfbagio&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-apdfbagio.vercel.app/api/top-langs/?username=apdfbagio&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
