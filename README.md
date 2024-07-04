@@ -1,9 +1,10 @@
 
 
 
+![Profile views](https://gpvc.arturio.dev/apdfbagio)
 
-
-<p 👨‍💻 Experienced systems analyst with a strong background in ERP development for Life Insurance, utilizing Visual Basic 6, SQL Server, and Crystal Reports. Experienced in Continuous Integration and Continuous Deployment (CI/CD) for clients like Marítima and Bradesco, supporting development and testing environments.
+<p>
+ 👨‍💻 Experienced systems analyst with a strong background in ERP development for Life Insurance, utilizing Visual Basic 6, SQL Server, and Crystal Reports. Experienced in Continuous Integration and Continuous Deployment (CI/CD) for clients like Marítima and Bradesco, supporting development and testing environments.
 
 🔧 Proficient with version control tools including Visual Source Safe, PVCS, Starteam, TFS, and GIT. Versed in a variety of technologies such as Visual Basic, VB.Net, C#, Java, and Angular for Environment Control.
 
@@ -82,6 +83,7 @@
 <a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
+![apdfbagio GitHub stats](https://github-readme-stats.vercel.app/api?username=apdfbagio&show_icons=true&theme=radical)
 
   
   
