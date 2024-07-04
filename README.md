@@ -33,7 +33,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-E34F26?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 ![Starteam](https://img.shields.io/badge/Starteam-20232A?style=for-the-badge&logo=starteam&logoColor=61DAFB)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-239120?style=for-the-badge&logo=azures)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
@@ -55,15 +54,15 @@
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/mariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![MSSql](https://img.shields.io/badge/MSSql-000000?style=for-the-badge&logo=mssql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-E44C30?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
-![MSSql](https://img.shields.io/badge/MSSql-000000?style=for-the-badge&logo=mssql&logoColor=white)&nbsp;
-![MariaDB](https://img.shields.io/badge/mariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/VisualStudio-E44C30?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
+
 ![Mint](https://img.shields.io/badge/Mint-4A154B?style=for-the-badge&logo=mint&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
