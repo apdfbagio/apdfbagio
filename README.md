@@ -38,7 +38,7 @@
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<img src="https://github.com/apdfbagio/Teste-PipeLine/ultra realistic в взphoto of a software developmen.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="[https://github.com/apdfbagio/Teste-PipeLine/ultra realistic в взphoto of a software developmen.png](https://github.com/apdfbagio/Teste-PipeLine/blob/main/ultra%20realistic%20в%20взphoto%20of%20a%20software%20developmen.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
